@@ -19,7 +19,7 @@ Follow these steps to get the project running on your local machine.
 
 ### 1. Clone the Repository
 
-Open your terminal and clone this repository. Replace `YourUsername/your-repository-name` with your actual GitHub username and repository name.
+Open your terminal and clone this repository.
 
 ```bash
 git clone [https://github.com/prateek-g-bit/Financial-News-Sentiment-Analyser.git](https://github.com/prateek-g-bit/Financial-News-Sentiment-Analyser.git)
